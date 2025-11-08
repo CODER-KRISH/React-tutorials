@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: burlywood;
+}
+
+
+h1{
+  margin: 20px;
+  padding: 10px 20px;
+  background-color: rgb(207, 232, 255);
+  object-fit: cover;
+  height: auto;
+  width: auto;
+  font-size: 100px;
+  padding: 12px;
+  border-radius: 5px;
+  text-align: center;
+  border: 1px solid blueviolet;
+}
+
+button{
+  margin: 20px;
+  padding: 40px 0;
+  width: 230px;
+  background-color: aliceblue;
+  border: 1px solid gray;
+  background-color: gainsboro;
+  border-radius: 5px;
+  font-size: 30px;
+  cursor: pointer;
+}
